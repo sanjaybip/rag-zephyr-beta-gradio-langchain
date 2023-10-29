@@ -1,0 +1,7 @@
+torch
+ctransformers
+sentence_transformers
+chromadb
+langchain
+pypdf
+gradio
